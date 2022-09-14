@@ -1,5 +1,6 @@
-utility functions for Project 1
+Utility functions for Project 1
 Imagine it as a code for Web Application Development
 It contains utility functions.
 I learned.
 Congratulations.
+If you've have any queries, ping me up.
