@@ -1,0 +1,3 @@
+utility functions for version 1
+Imagine it as a code for Web Application Development
+It contains utility functions.
